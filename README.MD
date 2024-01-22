@@ -1,5 +1,9 @@
 ## Данный репозиторий содержит выполнение всех заданий по тренировкам по ML от Yandex
 
+### Лендинг сайта с заданиями можно посмотреть [здесь](https://yandex.ru/yaintern/training/ml-training?mindbox-message-key=1200209309232660480&mindbox-click-id=69e38083-fe08-4695-9bd7-6a4273ff252a&utm_source=mindbox&utm_medium=email&utm_campaign=training4&utm_content=reminder#polnoe-raspisanie)
+
+
+
 ### [Задание 1](homework_1)
 
 В данном задании необходимо реализовать алгоритм KNN используя библиотеку `numpy`
